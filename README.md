@@ -29,4 +29,6 @@ npm run dev
 
 This tech was demonstrated for a guide I wrote here: https://dev.to/rodolphedupuis/securing-your-fullstack-app-authentication-authorization-with-jwt-in-nextjs-and-node-4e0o
 
+Dockerization will soon be available, keeping it hot for my next guide!
+
 Leave a like and a comment if this helped you ❤️
